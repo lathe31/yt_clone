@@ -39,7 +39,7 @@ export class App extends Component {
       .get("/search", {
         params: {
           q: this.state.inputText,
-          key: `AIzaSyAmwqinVY6JpdiaA81f5P6GtigAP2j6nTA`,
+          key: ``,
           part: "snippet",
           maxResults: 15,
         },
