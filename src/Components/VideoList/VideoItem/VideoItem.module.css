@@ -1,0 +1,14 @@
+.cardItemContainer {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-evenly; */
+  padding: 10px;
+}
+.details {
+  margin-left: 10px;
+  flex: 1;
+}
+.cardContainer {
+  margin: 10px 0px;
+  cursor: pointer;
+}

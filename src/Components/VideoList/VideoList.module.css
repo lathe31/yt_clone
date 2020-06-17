@@ -1,0 +1,6 @@
+.videoListContainer {
+  width: 100%;
+  padding: 0px 10px;
+  overflow-y: scroll;
+  height: 500px;
+}
